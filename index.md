@@ -4,4 +4,5 @@
 
 layout: index
 title: Hello Selectron
+content: Coming Soon
 ---
